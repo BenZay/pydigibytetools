@@ -1,4 +1,4 @@
-# Pybitcointools, Python library for Bitcoin signatures and transactions
+# Pydigibytetools, Python library for Digibyte signatures and transactions
 
 ### Advantages:
 
@@ -18,7 +18,7 @@
 
 ### Example usage (best way to learn :) ):
 
-    > from bitcoin import *
+    > from digibyte import *
     > priv = sha256('some big long brainwallet password')
     > priv
     '57c617d9b4e1f7af6ec97ca2ff57e94a28279a7eedd4d12a99fa11170e94f5a4'
