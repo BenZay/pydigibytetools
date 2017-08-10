@@ -7,7 +7,7 @@ except ImportError:
 setup(name='digibyte',
       version='1.1.25',
       description='Python Digibyte Tools',
-      author='Esotericizm,
+      author='Esotericizm',
       author_email='esotericizm@cryptoservices.net',
       url='http://github.com/Digitools/pydigibytetools',
       install_requires='six==1.8.0',
